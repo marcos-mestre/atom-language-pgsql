@@ -1,3 +1,3 @@
 # atom-language-pgsql package
 
-PL/PgSQL language support in Atom
+PL/PgSQL (aka postgres) language support in Atom
