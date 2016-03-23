@@ -1,6 +1,6 @@
 {
   "name": "language-pgsql",
-  "version": "0.2.2",
+  "version": "0.2.1",
   "description": "PL/PgSQL language support in Atom",
   "repository": "https://github.com/marcos-mestre/atom-language-pgsql",
   "license": "MIT",
